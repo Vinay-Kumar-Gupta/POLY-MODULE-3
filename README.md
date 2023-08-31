@@ -27,6 +27,12 @@ To run the circuit and generate the proof, follow these steps:
 1. Dont forget to add you wallet private key in the .env and import the env in hardhat.config.ts
 2. also add some MATIC in your wallet before running the command over mumbai network
 3. use the RPC url in the hardhat.config.ts file in network section to add mumbai polygon network in your wallet.
+
+## Links
+1. For getting the templete for start :
+   https://github.com/gmchad/zardkat
+2. For Creating circom circuit refer this :
+   https://github.com/iden3/circomlib
    
 ## Author
 Vinay-Kumar-Gupta
